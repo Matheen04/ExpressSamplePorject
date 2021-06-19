@@ -1,2 +1,2 @@
-# ExpressSamplePorject
-This is a sample project using express.js
+# NodeSampleProject
+This is a basic node js application that reads a file and send the data to UI

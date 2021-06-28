@@ -1,0 +1,34 @@
+[
+	{
+		"studentName": "Raj",
+		"id": "001",
+		"totalMarks": "520"
+	},
+	{
+		"studentName": "Rahul",
+		"id": "002",
+		"totalMarks": "520"
+	},
+	{
+		"studentName": "Abhi",
+		"id": "003",
+		"totalMarks": "520"
+	},
+	{
+		"studentName": "Rohit",
+		"id": "004",
+		"totalMarks": "520"
+	},{
+		"studentName": "Sundar",
+		"id": "005",
+		"totalMarks": "520"
+	},{
+		"studentName": "Elroy",
+		"id": "006",
+		"totalMarks": "520"
+	},{
+		"studentName": "Deru",
+		"id": "007",
+		"totalMarks": "520"
+	}
+]
